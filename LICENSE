@@ -1,0 +1,34 @@
+Copyright (c) Torisima 2026, All Rights Reserved.
+
+
+この Visual Studio Code 拡張機能（以下「ソフトウェア」）は、-pプログラムの作成、編集、または実行を目的として、個人および商業利用のみに提供されます。
+
+使用可能な行為:
+- 個人または商業プロジェクトでソフトウェアを使用すること。
+- 商業用を含む製品、サービス、またはアプリケーションを開発するためにソフトウェアを使用すること。
+
+使用禁止の行為:
+- ソフトウェアを全部または一部をコピー、再配布、サブライセンス、または販売すること。
+- ソフトウェアを改変、リバースエンジニアリング、または派生作品を作成すること。
+- ソフトウェアを他の拡張機能、パッケージ、または配布物に含めること。
+
+ソフトウェアは「現状のまま」提供され、いかなる保証もありません。
+
+ソフトウェアを使用することにより、これらの条件に同意したものとみなされます。
+
+
+
+This Visual Studio Code extension (the “Software”) is provided for personal and commercial use only for the purpose of writing, editing, or executing -p(MinusP) programs.
+
+You may:
+- Use the Software for personal or commercial projects.
+- Use the Software to develop products, services, or applications, including commercial ones.
+
+You may NOT:
+- Copy, redistribute, sublicense, or sell the Software, in whole or in part.
+- Modify, reverse engineer, or create derivative works based on the Software.
+- Include the Software in any other extension, package, or distribution.
+
+The Software is provided “as is”, without warranty of any kind.
+
+By using the Software, you agree to these terms.
