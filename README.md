@@ -5,6 +5,7 @@
 ・シンタックスハイライト（色付け）  
 ・スニペット  
 ・キーワードの補完／定数や関数名の補完  
+.cmppまたは.cmph拡張子がターゲットです  
   
   
 # MinusP(-p) extended support  
@@ -15,3 +16,4 @@ This supports the following.
 - Snippets  
 - Keyword completion  
 - Built‑in constants and functions  
+This targets ".cmpp" or ".cmph".
