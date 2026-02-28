@@ -5,8 +5,8 @@
 ・シンタックスハイライト（色付け）  
 ・スニペット  
 ・キーワードの補完／定数や関数名の補完  
-
-
+  
+  
 # MinusP(-p) extended support  
 
 -p language is programming language without learning well.  
