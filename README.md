@@ -1,4 +1,4 @@
-# MinusP（-p）拡張サポート  
+# MinusP（mp言語）拡張サポート  
 
 -pは十分な学習なしで日本語でもプログラミングができる言語です  
 この拡張は以下をサポートします  
@@ -8,7 +8,7 @@
 .cmppまたは.cmph拡張子がターゲットです  
   
   
-# MinusP(-p) extended support  
+# MinusP(mp-lang) extended support  
 
 -p language is programming language without learning well.  
 This supports the following.  
