@@ -49,7 +49,7 @@ Third-Party Notice
 This software includes portions of the .NET Runtime,
 which is licensed under the MIT License.
 
------------
+-------------------------------------------------------------
 
 The MIT License (MIT)
 
@@ -75,12 +75,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
------------
+-------------------------------------------------------------
+
+-------------------------------------------------------------
 
 This software includes portions about color theme,
 which is licensed under the MIT License.
 
------------
+-------------------------------------------------------------
 
 MIT License
 
@@ -103,3 +105,93 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+-------------------------------------------------------------
+
+-------------------------------------------------------------
+
+本ソフトウェアは以下のサードパーティライブラリを含みます
+各ライブラリのライセンス全文の配置場所と関連情報は以下です
+
+-------------------------------------------------------------
+
+balanced-match@1.0.2
+─ LICENSE: ./node_modules/balanced-match/LICENSE.md
+─ license_type: MIT
+─ repository: https://github.com/juliangruber/balanced-match
+─ publisher: Julian Gruber
+─ email: mail@juliangruber.com
+─ url: http://juliangruber.com
+─ path: ./node_modules/balanced-match
+
+-------------------------------------------------------------
+
+brace-expansion@2.0.2
+─ LICENSE: ./node_modules/brace-expansion/LICENSE
+─ licenses: MIT
+─ repository: https://github.com/juliangruber/brace-expansion
+─ publisher: Julian Gruber
+─ email: mail@juliangruber.com
+─ url: http://juliangruber.com
+─ path: ./node_modules/brace-expansion
+
+-------------------------------------------------------------
+
+minimatch@5.1.7
+─ LICENSE: ./node_modules/minimatch/LICENSE
+─ license_type: ISC
+─ repository: https://github.com/isaacs/minimatch
+─ publisher: Isaac Z. Schlueter
+─ email: i@izs.me
+─ url: http://blog.izs.me
+─ path: ./node_modules/minimatch
+
+-------------------------------------------------------------
+
+semver@7.7.4
+─ LICENSE: ./node_modules/semver/LICENSE
+─ license_type: ISC
+─ repository: https://github.com/npm/node-semver
+─ publisher: GitHub Inc.
+─ path: ./node_modules/semver
+
+-------------------------------------------------------------
+
+vscode-jsonrpc@8.2.0
+─ LICENSE: ./node_modules/vscode-jsonrpc/License.txt
+─ ThirdPartyNotices: ./node_modules/vscode-jsonrpc/thirdpartynotices.txt
+─ license_type: MIT
+─ repository: https://github.com/Microsoft/vscode-languageserver-node
+─ publisher: Microsoft Corporation
+─ path: ./node_modules/vscode-jsonrpc
+
+-------------------------------------------------------------
+
+vscode-languageclient@9.0.1
+─ LICENSE: ./node_modules/vscode-languageclient/License.txt
+─ license_type: MIT
+─ repository: https://github.com/Microsoft/vscode-languageserver-node
+─ publisher: Microsoft Corporation
+─ path: ./node_modules/vscode-languageclient
+
+-------------------------------------------------------------
+
+vscode-languageserver-protocol@3.17.5
+─ LICENSE: ./node_modules/vscode-languageserver-protocol/License.txt
+─ ThirdPartyNotices: ./node_modules/vscode-languageserver-protocol/thirdpartynotices.txt
+─ license_type: MIT
+─ repository: https://github.com/Microsoft/vscode-languageserver-node
+─ publisher: Microsoft Corporation
+─ path: ./node_modules/vscode-languageserver-protocol
+
+-------------------------------------------------------------
+
+vscode-languageserver-types@3.17.5
+─ LICENSE: ./node_modules/vscode-languageserver-types/License.txt
+─ ThirdPartyNotices: ./node_modules/vscode-languageserver-types/thirdpartynotices.txt
+─ license_type: MIT
+─ repository: https://github.com/Microsoft/vscode-languageserver-node
+─ publisher: Microsoft Corporation
+─ path: ./node_modules/vscode-languageserver-types
+
+-------------------------------------------------------------
