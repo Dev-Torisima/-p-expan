@@ -1,7 +1,7 @@
 {
     "name": "minusp",
     "displayName": "mp言語",
-    "version": "2.3.2",
+    "version": "2.3.3",
     "description": "mp言語用のエラー判定、構文ハイライト、スニペット、補完といった拡張を提供します。This includes error detection, syntax highlighting, snippets, and completions for -p(mp-lang) language",
     "categories": ["Programming Languages"],
     "publisher": "torisima",
